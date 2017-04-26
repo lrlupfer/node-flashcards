@@ -1,0 +1,14 @@
+[
+	{
+		"partial": "Thomas Jefferson was the third president of the United States.",
+		"cloze": "Thomas Jefferson"
+	},
+	{
+		"partial": "The United States was founded in the year 1776.",
+		"cloze": "1776"
+	},
+	{
+		"partial": "If the president and vice president both die, the secretary of state becomes president.",
+		"cloze": "secretary of state"
+	}
+]
